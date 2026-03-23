@@ -1,0 +1,12 @@
+# Step 5 - is making sure the select the delete option, then call a function to prompt the user to enter the id 
+
+# loop through the data
+
+"""
+Patient Scheduling Application
+1. Search doctors
+2. Schedule an appointment
+3. View my appointments 
+4. Cancel 
+
+looping 
