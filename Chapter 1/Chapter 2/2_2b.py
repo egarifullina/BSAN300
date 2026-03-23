@@ -1,4 +1,4 @@
-# You can join two or more strings ti form a new
+# You can join two or more strings to form a new
 # string using the concatenation operator.
 
 print("Hi " + "there, " + "Ken!")

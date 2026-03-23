@@ -4,7 +4,7 @@
 theSum = 0
 
 while True: 
-    data = input("Enter anumber or just enter to quit: ")
+    data = input("Enter a number or just enter to quit: ")
     if data == "":   # Termination condition
         break
     number = float(data)

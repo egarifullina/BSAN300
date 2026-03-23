@@ -40,3 +40,8 @@ else:
         letter = "F"
 
 print("The letter grade is", number)
+
+
+#short-circuit evaluation - if the first condition is false, the second condition is not evaluated because the entire expression cannot be true. This can improve efficiency and prevent errors.
+
+
